@@ -1,0 +1,6 @@
+[submodule "themes/splittema"]
+	path = themes/splittema
+	url = https://github.com/christianmendoza/hugo-split-theme.git
+[submodule "themes/cocoa"]
+	path = themes/cocoa
+	url = https://github.com/nishanths/cocoa-hugo-theme.git
