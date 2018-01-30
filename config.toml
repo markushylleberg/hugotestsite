@@ -1,7 +1,12 @@
-baseURL = "http://example.org/"
+baseURL = "http://hugotestsite.markushylleberg.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "cocoa"
+
+
+
+[params]
+extracssfiles          = [ "/css/override.css" ] 
 
 
 [[menu.main]]

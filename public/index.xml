@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forside on My New Hugo Site</title>
+    <link>http://hugotestsite.markushylleberg.com/</link>
+    <description>Recent content in Forside on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jan 2018 11:02:29 +0100</lastBuildDate>
+    
+	<atom:link href="http://hugotestsite.markushylleberg.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>http://hugotestsite.markushylleberg.com/contact/</link>
+      <pubDate>Tue, 30 Jan 2018 09:21:20 +0100</pubDate>
+      
+      <guid>http://hugotestsite.markushylleberg.com/contact/</guid>
+      <description>dette er en kontakt side
+Send me a mail biatchYour email </description>
+    </item>
+    
+    <item>
+      <title>Case3</title>
+      <link>http://hugotestsite.markushylleberg.com/portfolio/case3/</link>
+      <pubDate>Tue, 30 Jan 2018 08:59:26 +0100</pubDate>
+      
+      <guid>http://hugotestsite.markushylleberg.com/portfolio/case3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case2</title>
+      <link>http://hugotestsite.markushylleberg.com/portfolio/case2/</link>
+      <pubDate>Tue, 30 Jan 2018 08:59:15 +0100</pubDate>
+      
+      <guid>http://hugotestsite.markushylleberg.com/portfolio/case2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case1</title>
+      <link>http://hugotestsite.markushylleberg.com/portfolio/case1/</link>
+      <pubDate>Tue, 30 Jan 2018 08:59:07 +0100</pubDate>
+      
+      <guid>http://hugotestsite.markushylleberg.com/portfolio/case1/</guid>
+      <description>Her er case 1 blah</description>
+    </item>
+    
+    <item>
+      <title>Blogpost 2</title>
+      <link>http://hugotestsite.markushylleberg.com/blog/blogpost-2/</link>
+      <pubDate>Mon, 29 Jan 2018 11:36:57 +0100</pubDate>
+      
+      <guid>http://hugotestsite.markushylleberg.com/blog/blogpost-2/</guid>
+      <description>og nu er du på min anden blogpost biaaaatch hvem tror du du er ? hahahah</description>
+    </item>
+    
+    <item>
+      <title>Blogpost 1</title>
+      <link>http://hugotestsite.markushylleberg.com/blog/blogpost-1/</link>
+      <pubDate>Mon, 29 Jan 2018 11:36:06 +0100</pubDate>
+      
+      <guid>http://hugotestsite.markushylleberg.com/blog/blogpost-1/</guid>
+      <description>eeeyyy sker der g hvad laver du på min blog skal jeg rulle dig biatch</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://hugotestsite.markushylleberg.com/about/</link>
+      <pubDate>Mon, 29 Jan 2018 11:31:15 +0100</pubDate>
+      
+      <guid>http://hugotestsite.markushylleberg.com/about/</guid>
+      <description>hej hej hej about me lololol
+se ham lige!! her er en liste af ting  hunde katte biler  her er en liste af ting i rækkefølge  huse biler hunde  klik på billedet</description>
+    </item>
+    
+  </channel>
+</rss>
