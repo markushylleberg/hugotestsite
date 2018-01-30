@@ -8,13 +8,4 @@ draft: true
 ## hej 
 
 
-sælkjflæsdkfjalskfjakf faklf alfkæ jadsflækaj sdflj
-
-
-fhaso fasdlfjkas fkljashfkaslfhasojfasjf asæfhlasfhsa
-fasfasf ajshasjfhs
-
-
-asodkfjasfokæafhjæashodf
-
-asdpofkasdøfælasfpølkasdf
+Dette er min forside
